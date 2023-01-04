@@ -115,4 +115,7 @@ form h1{
     .info, .options1, .submit{
         width: 85%;
     }
+    #DOB{
+        padding-right: 20px;
+    }
 }
