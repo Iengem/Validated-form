@@ -112,7 +112,7 @@ form h1{
         align-items: left;
         justify-content: left;
     }
-    .info{
-        width: 80%;
+    .info, .options1, .submit{
+        width: 85%;
     }
 }
